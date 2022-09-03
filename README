@@ -1,0 +1,4 @@
+deps:
+* dotnet
+
+$ ./get_lucky.fsx
