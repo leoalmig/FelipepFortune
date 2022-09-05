@@ -6,6 +6,7 @@ open System
 let fortunes =
     [ "Vendi pra eles um time de alta performance..."
       "Esse é o Coringa!"
+      "Que Miro?"
       "Vou mover esse card pra ToDo" ]
 
 let rand = Random()
